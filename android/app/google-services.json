@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1093187474465",
+    "firebase_url": "https://monitor-stress-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "monitor-stress",
+    "storage_bucket": "monitor-stress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093187474465:android:162ab552d6ff1bd601ff60",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_stress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvOT7N2fYPRWV98-xiWOVAjIvWMy-Jis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
